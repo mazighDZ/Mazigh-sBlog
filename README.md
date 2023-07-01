@@ -1,3 +1,4 @@
+Description:
 This repository hosts a web application that serves as a dynamic blogging platform, empowering users to register, create and publish articles, and engage in meaningful discussions. Developed using Python, HTML, CSS, and JavaScript, this project provides an intuitive and user-friendly interface for bloggers and readers alike. The authentication system incorporates hashing techniques to ensure secure user account management.
 
 Key Features:
